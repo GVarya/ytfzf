@@ -215,6 +215,9 @@ Feel free to contribute, and add your name to the credits, please use the develo
 | Gardockt      | [contributions](credits/gardockt.md)      |        |
 | qoheniac      | [contributions](credits/qoheniac.md)      |        |
 | mathisto      | [contributions](credits/mathisto.md)      |        |
+1.1 commit
+1.2 commit
+1.3 commit
 2.1 commit
 2.2 commit
 2.3 commit
